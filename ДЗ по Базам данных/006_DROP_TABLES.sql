@@ -1,0 +1,1 @@
+DROP TABLES client, contract, manager, account, operation_type;
